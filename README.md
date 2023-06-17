@@ -1,1 +1,6 @@
 # Railway-Track-fault-Detection-Resized-InceptionV3
+
+
+
+DataSet :
+https://www.kaggle.com/datasets/gpiosenka/railway-track-fault-detection-resized-224-x-224
